@@ -17,3 +17,4 @@ Once all the requirements are installed, simply open the notebook on your jupyte
 
 * November 2018: Period during which the notebook was first created with most of its code.
 * February 2019: Refactoring, add of comments and textual cell, and upload on github.
+* March 2019: @ArnaudPanatier Added "Number of word per person" and "Most talking person ranking" functions + inline matplotlib fix.
